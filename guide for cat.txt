@@ -1,0 +1,27 @@
+a. mysql -u root
+
+b. mysql -u footstats_user -p footstats < expanding_league.sql
+
+c. go into footstats-django
+	git pull origin master
+	email: marthaslee52457@gmail.com
+	name: alexkim900628
+	
+	-ps aux | grep uws
+
+	- kill process and run again follow the commands;
+
+		- run backend with uwsgi
+			uwsgi --http :5000 --module footstats.wsgi &
+
+		- nginx 
+			service nginx restart
+
+d. go into footstats-vue
+	git pull origin master
+	it's same credentials
+
+	npm run build
+
+!!!!
+e. close putty via exit command, not with mouse.
