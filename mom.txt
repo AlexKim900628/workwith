@@ -1,0 +1,23 @@
+computed: {
+    byTime() {
+      let sch = this.searchText
+      let allGames = []
+      let regex = RegExp(sch, 'i')
+
+      if (sch == '') allGames = this.matches
+      else {
+        this.matches.forEach((evt) => {
+          if (regex.test(evt.local_name) || regex.test(evt.visitor_name)
+              || regex.test(evt.league_name) || regex.test(evt.league_country.name)) {
+
+                allGames.push(evt)
+
+          }
+        })
+      }
+
+      /* grouping Label : startHour + league */
+      var label = function(game){
+          return moment(game['start_dt']).format("HH:mm") + game['league_country']['name'] + ', ' + game['league_name']
+      }
+hi, your mom wants to know your news. She called me 2 days ago. Please leave your words here.
