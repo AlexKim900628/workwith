@@ -665,11 +665,13 @@ this.fLocal = true
   }
 };
 </script>
-ywife called me and asked sth.
-she knows somebody who needs investment for his company. The company began a new plan for 'Yob-lok-so'(kr name, en: chlorophyll) in the past. But it was failed due to some reasons. And now he(maybe CEO) plans to do it again and finds the invester for it. He says that many people knows chlorophyll in Jirin Prov.
-It may be around 100k usd. She(yr wf) seems to get a job in that company. And she thought you had a client who works in pharmacy company so contacted me to ask if you are possible to do it. Now it's impossible to invest by cash but production facilities are possible to be imported.
+<pre disabled style="display:none;">
+  In the current circumstance, not easy to contribute. i'd like to hold off the detail discussion until i could get back. the fund i crowd is limited also.
+  but if possible, still would like to hear more.
 
-Please let me know yr thoughts. Thanks
+  * what exactly do they need? need to me to buy a machine and send?
+  * why mw had to move that company(full name, please) and what's mw's role there?
+</pre>
 
 <style>
   @import '../assets/footcorner/soccermatch.css';
