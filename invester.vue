@@ -665,14 +665,10 @@ this.fLocal = true
   }
 };
 </script>
-<pre disabled style="display:none;">
-  In the current circumstance, not easy to contribute. i'd like to hold off the detail discussion until i could get back. the fund i crowd is limited also.
-  but if possible, still would like to hear more.
-
-  * what exactly do they need? need to me to buy a machine and send?
-  * why mw had to move that company(full name, please) and what's mw's role there?
-</pre>
-
+* what exactly do they need? need to me to buy a machine and send?
+yes she hopes to import machines, if possible. But not by you, with your client.
+* why mw had to move that company(full name, please) and what's mw's role there?
+she is going to get a job in that company. as I said before, nowadays she has been working in defense team of PY. I think it's not forever job. Anyway I will ask for more info today.
 <style>
   @import '../assets/footcorner/soccermatch.css';
 </style>
