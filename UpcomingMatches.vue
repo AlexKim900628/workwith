@@ -219,19 +219,7 @@ export default {
     })
     .catch(error => {})
   },
-  printout: () => `
-  In general, I've never wanted her to be in enaged with any company or business stuff. 
-  but since she wants, i can try to ask more. I can make connection between her and my client. 
-  but i need more info. 
-  - my client is a representative of a medicine company. 
-    the job is wheel around some local phamarcy stores and do promotes and supply company product to them.
-    do you still think its the person that you're looking for?
-  
-  - what exact role do you expect from the client?
-    facility investment only? or does he need to be responsible for sales in cn?
-    if in that case, i don't think it's easy to do. any medicine stuff need to be go through cn government-wise ceritification process.
-    also, there are so much chlorophyll stuff in the current market here.
-  `
+  printout: () => `Sent sth to mw which will be arrived in a week. Plz tell "After receivev, keep it private and don't let other ppl zhidao."`
 };
 </script>
 
