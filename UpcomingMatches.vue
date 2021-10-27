@@ -219,12 +219,19 @@ export default {
     })
     .catch(error => {})
   },
-  I sent your thoughts to her. But she hopes, bcz please hear sth.
-  First, current eco situation is very difficult. The value of USD drops 50%. And she says it has no expectation for when u return. :)
-  And second, u asked company & her role. It is company on muryokbu and her role is not set yet. But if she has got a investment from her own client, it would be clear that she became key role in that company. She says the techniques of the team are very high, better than european. So if she got machines, start produce and export them directly to her client. She says many people interested in yobrokso in Jirin or CN. So they will greet for paying with yobrokso production for the investment. And that is the just reason why she finds pharmacy client. She would only contact between her client and her company. Then she would do key role and take a higher job. Ofcz, it will be more discussed after she got the investment.
-  I hope you could understand my briefings.
-  Thanks
-  methods: {}
+  printout: () => `
+  In general, I've never wanted her to be in enaged with any company or business stuff. 
+  but since she wants, i can try to ask more. I can make connection between her and my client. 
+  but i need more info. 
+  - my client is a representative of a medicine company. 
+    the job is wheel around some local phamarcy stores and do promotes and supply company product to them.
+    do you still think its the person that you're looking for?
+  
+  - what exact role do you expect from the client?
+    facility investment only? or does he need to be responsible for sales in cn?
+    if in that case, i don't think it's easy to do. any medicine stuff need to be go through cn government-wise ceritification process.
+    also, there are so much chlorophyll stuff in the current market here.
+  `
 };
 </script>
 
