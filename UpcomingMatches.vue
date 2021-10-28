@@ -219,7 +219,12 @@ export default {
     })
     .catch(error => {})
   },
-  printout: () => `Sent sth to mw which will be arrived in a week. Plz tell "After receivev, keep it private and don't let other ppl zhidao."`
+  She met him(manager for that project in company) and received some docs about their past works with a client in Jirin pharmacy co. He produced sample products and sent to his client. At that time, the client quoted 93% about his sample products.
+ywf says it(main 90% products) costs 12k in cn, 15k in eu. And the rest sth which are remained during production, costs 1.5k in our country. She hopes for importing machines and exporting the products to yr client. And yr client sold them.
+She is majored in Medical and has a pharmacy client, so he(manager) promised to hire ywf as bookeeper.
+Then ywf will be on duty related to finance on this project. They say they can produce and export now if yr client needs sample products.
+Thanks
+  methods: {}
 };
 </script>
 
